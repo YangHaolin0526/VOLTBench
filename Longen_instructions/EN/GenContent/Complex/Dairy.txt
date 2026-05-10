@@ -1,0 +1,4 @@
+Please write a diary for {num_section} days. Your name is Jeff, a white-collar worker. Each entry can include aspects such as your mood for the day, key events, challenges faced, solutions, and hopes or reflections for the future. Ensure that each diary entry expresses different emotions and reflects various life events and growth experiences. The diary content can cover a range of life scenarios, such as work, family, friends, health, and travel. Each entry should be around {word_section} words. Ensure clarity and continuity without any interruptions or omissions in the narrative throughout the document. Do not stop generating content until all {num_section} chapters are completed and '*** finished ***' is used to indicate the end of the document. Do not output other characters to stop.
+
+*** started ***
+#*# Date: Day 1

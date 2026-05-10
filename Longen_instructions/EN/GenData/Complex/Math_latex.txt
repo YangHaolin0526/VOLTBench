@@ -1,0 +1,8 @@
+Please generate {num_section} mathematical formulas in LaTeX format, with the difficulty increasing from simple to complex. Each formula should be preceded by a brief comment explaining its meaning or application. Start with basic algebraic formulas, then move to more complex formulas from calculus, linear algebra, probability theory, and other fields. Each formula should be enclosed in \begin{equation} and \end{equation}. Ensure clarity and continuity without any interruptions or omissions in the narrative throughout the document. Do not stop generating content until all {num_section} mathematical formulas are completed and '*** finished ***' is used to indicate the end of the document.
+
+*** started ***
+% Formula 1: Energy-mass equivalence: E=mc^2, where energy is equal to mass multiplied by the square of the speed of light.
+% This formula is widely used in physics to describe the equivalence of energy and mass, especially in nuclear reactions and particle physics.
+\begin{equation}
+E = mc^2
+\end{equation}

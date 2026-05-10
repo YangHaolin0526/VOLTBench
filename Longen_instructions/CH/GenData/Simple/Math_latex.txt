@@ -1,0 +1,7 @@
+请生成{num_section}个数学公式，格式为LaTeX。每个公式前应有简短的注释解释该公式。公式应包含在 \begin{equation} 和 \end{equation} 之间。确保文档中叙述清晰连贯，没有中断或遗漏。在生成内容时，请不要停止，直到完成所有{num_section}个数学公式，并使用 "*** finished ***" 来表示文档的结束。
+
+*** started ***
+% 公式1：质能方程：E=mc^2，表示能量等于质量与光速的平方的乘积
+\begin{equation}
+E = mc^2
+\end{equation}

@@ -1,0 +1,4 @@
+Please design a {num_section}-story mixed-use skyscraper for work and living. Describe the function or layout of each floor. Each floor should have a different function and design, closely connected to other floors. Include detailed descriptions of office areas, commercial spaces, residential areas, and entertainment and leisure zones. The content should have sufficient detail and depth, such as design concepts, layouts, and unique elements (like floor decoration styles, space utilization, and the application of smart technology) to present a multifunctional building. Each floor's description should be at least {word_section} words. Ensure clarity and continuity without any interruptions or omissions in the narrative throughout the document. Do not stop generating content until all {num_section} floors are completed and '*** finished ***' is used to indicate the end of the document. Do not output other characters to stop.
+
+*** started *** 
+#*# Floor 1:

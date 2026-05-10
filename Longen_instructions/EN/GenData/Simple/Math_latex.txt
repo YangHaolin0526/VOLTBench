@@ -1,0 +1,7 @@
+Please generate {num_section} mathematical formulas, formatted in LaTeX. Each formula should be preceded by a brief comment explaining the formula. The formula should be enclosed in \begin{equation} and \end{equation}. Ensure clarity and continuity without any interruptions or omissions in the narrative throughout the document. Do not stop generating content until all {num_section} mathematical formulas are completed and '*** finished ***' is used to indicate the end of the document.
+
+*** started *** 
+% Formula 1: Energy-mass equivalence: E=mc^2, where energy is equal to mass multiplied by the square of the speed of light
+\begin{equation}
+E = mc^2
+\end{equation}

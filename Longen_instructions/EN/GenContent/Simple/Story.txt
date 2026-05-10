@@ -1,0 +1,4 @@
+Please write a novel consisting of {num_section} chapters. Each chapter should revolve around a theme or plot, with a minimum of {word_section} words for each chapter. Ensure clarity and continuity without any interruptions or omissions in the narrative throughout the document. Do not stop generating content until all {num_section} chapters are completed and '*** finished ***' is used to indicate the end of the document.
+
+*** started *** 
+#*# Title:

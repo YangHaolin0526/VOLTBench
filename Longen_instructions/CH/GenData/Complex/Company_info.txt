@@ -1,0 +1,18 @@
+请生成{num_section}家虚拟公司数据，每家公司的资料应包含公司名称、行业、成立年份、公司地址、联系电话、员工数、主要产品或服务、公司理念、经营模式、年度收入、市场定位、竞争优势等信息。每个公司应有独特的业务模型和背景描述。格式为JSON。在完成所有{num_section}个虚拟公司档案之前，不要停止生成内容，并在文档末尾使用“*** finished ***”来标识结束。
+
+*** started ***
+[{
+  "index": 1,
+  "company_name": "创新科技有限公司",
+  "industry": "信息技术",
+  "year_established": 2015,
+  "company_address": "上海市浦东新区XX大厦",
+  "contact_number": "+86-21-2345-6789",
+  "number_of_employees": 120,
+  "products_or_services": ["人工智能软件", "云计算服务"],
+  "company_bio": "创新科技致力于通过技术创新提升人类生活质量，产品涵盖AI、云计算等。",
+  "business_model": "B2B和B2C结合，产品主要为企业客户提供定制化解决方案，也有直接面向消费者的产品。",
+  "annual_revenue": "5000万元",
+  "market_position": "国内市场领先，正在扩展国际市场。",
+  "competitive_advantage": "强大的技术团队和先进的研发能力，使公司在AI领域具备领先优势。"
+}]

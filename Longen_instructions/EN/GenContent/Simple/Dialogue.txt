@@ -1,0 +1,4 @@
+Please generate {num_section} rounds of dialogue between customers and customer service. Each round should include a customer's question and a customer service representative's response, with a minimum of {word_section} words for each round. Ensure clarity and continuity without any interruptions or omissions in the narrative throughout the document. Do not stop generating content until all {num_section} rounds of dialogue are completed and '*** finished ***' is used to indicate the end of the document.
+*** started ***
+#*# Round 1:
+**customers**:

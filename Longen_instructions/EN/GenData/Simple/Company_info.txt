@@ -1,0 +1,11 @@
+Please generate {num_section} virtual company profiles. Each profile should include the company name, industry, year of establishment, company address, and contact number, formatted in JSON. Ensure clarity and continuity without any interruptions or omissions in the narrative throughout the document. Do not stop generating content until all {num_section} virtual company profiles are completed and '*** finished ***' is used to indicate the end of the document.
+
+*** started ***
+[{
+  "index": 1,
+  "company_name": "Tech Innovations Inc.",
+  "industry": "Technology",
+  "year_established": 2015,
+  "company_address": "4567 Silicon Valley, San Jose, CA, 95110",
+  "contact_number": "+1-800-234-5678"
+}]

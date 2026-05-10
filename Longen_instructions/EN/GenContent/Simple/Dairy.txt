@@ -1,0 +1,3 @@
+Please write a diary for {num_section} days for Jeff. Each entry should include the date and a brief description of the content, with a minimum of {word_section} words for each entry. Ensure clarity and continuity without any interruptions or omissions in the narrative throughout the document. Do not stop generating content until all {num_section} diaries are completed and '*** finished ***' is used to indicate the end of the document.
+*** started ***
+#*# Date: Day 1:

@@ -1,0 +1,18 @@
+Please generate {num_section} virtual company profiles in Json format. Each profile should include the company name, industry, year of establishment, company address, contact number, number of employees, main products or services, company bio, business model, annual revenue, market positioning, competitive advantage, and recent developments. Ensure that each company has a unique business model and a detailed description of its background, philosophy, and innovation. Ensure clarity and continuity without any interruptions or omissions in the narrative throughout the document. Do not stop generating content until all {num_section} virtual company profiles are completed and '*** finished ***' is used to indicate the end of the document.
+
+*** started ***
+[{
+  "index": 1,
+  "company_name": "Innovative Tech Solutions, Inc.",
+  "industry": "Information Technology",
+  "year_established": 2015,
+  "company_address": "123 Tech Park, San Francisco, CA, USA",
+  "contact_number": "+1-415-555-6789",
+  "number_of_employees": 120,
+  "products_or_services": ["Artificial Intelligence Software", "Cloud Computing Services"],
+  "company_bio": "Innovative Tech Solutions is dedicated to enhancing the quality of life through technological innovations, offering products that include AI and cloud computing solutions.",
+  "business_model": "A combination of B2B and B2C, primarily providing customized solutions for enterprise clients, as well as consumer-targeted products.",
+  "annual_revenue": "$7 million",
+  "market_position": "Leading position in the domestic market, currently expanding into international markets.",
+  "competitive_advantage": "A strong technical team and advanced R&D capabilities give the company a competitive edge in the AI sector."
+}]

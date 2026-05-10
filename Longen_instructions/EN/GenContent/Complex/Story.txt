@@ -1,0 +1,4 @@
+Please write a fantasy novel with {num_section} chapters about Jeff. The novel should have a clear theme and structure, with characters experiencing multiple twists and personal growth throughout the plot. Each chapter should describe the main characters' actions, thoughts, and emotional development, while also incorporating relevant background information (such as historical context, social environment, etc.). Each chapter should be around {word_section} words, with enough detail and emotional depth to keep the reader engaged. Ensure clarity and continuity without any interruptions or omissions in the narrative throughout the document. Do not stop generating content until all {num_section} chapters are completed and '*** finished ***' is used to indicate the end of the document. Do not output other characters to stop.
+
+*** started *** 
+#*# Chapter1:

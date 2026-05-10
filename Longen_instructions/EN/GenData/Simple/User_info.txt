@@ -1,0 +1,11 @@
+Please generate {num_section} virtual user profiles, with each user's information including name, age, gender, address, email, and phone number, formatted as JSON. Ensure clarity and continuity without any interruptions or omissions in the narrative throughout the document. Do not stop generating content until all {num_section} profiles are completed and '*** finished ***' is used to indicate the end of the document.
+*** started ***
+[{
+  "index": 1,
+  "name": "John Doe",
+  "age": 30,
+  "gender": "Male",
+  "address": "1234 Elm Street, Springfield, IL, 62701",
+  "email": "johndoe@example.com",
+  "phone": "+1-555-123-4567"
+}]

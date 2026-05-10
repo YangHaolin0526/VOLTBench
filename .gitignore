@@ -1,0 +1,27 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Generated prompt dictionaries and model outputs
+Longen_instructions/**/*.pkl
+Longen_instructions/**/*_output.json
+Longen_instructions/**/*_word_count.json
+
+# Local experiment outputs
+CH-prompt/
+EN-prompt/
+evaluation_results*/
+py_files/*
+!py_files/LLM_Gen.py
+!py_files/Llama_Gen.py
+!py_files/Llama_Gen_EN.py
+!py_files/Mamba_Gen.py
+!py_files/Mamba_Gen_EN.py
+!py_files/Qwen_1B_Gen.py
+!py_files/Qwen_1B_Gen_EN.py
+!py_files/Qwen_7B_Gen.py
+!py_files/Qwen_7B_Gen_EN.py
+!py_files/prompt_dict.py
+py_files/**/*.json
+py_files/**/*.png
+py_files/**/*.pdf

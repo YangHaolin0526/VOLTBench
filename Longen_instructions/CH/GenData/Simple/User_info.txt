@@ -1,0 +1,11 @@
+请生成{num_section}个虚拟用户档案，每个用户的信息包括姓名、年龄、性别、地址、电子邮件和电话号码，格式为JSON。确保文档内容清晰连贯，没有中断或遗漏。请继续生成内容，直到所有{num_section}个档案完成，并使用“*** finished ***”表示文档结束。
+*** started ***
+[{
+  "index": 1,
+  "name": "张三",
+  "age": 28,
+  "gender": "男",
+  "address": "北京市朝阳区XX路123号",
+  "email": "zhangsan@example.com",
+  "phone": "+86-139-1234-5678"
+}]

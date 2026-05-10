@@ -1,0 +1,19 @@
+Please generate {num_section} virtual user profiles in Json format. Each profile should include the user’s name, age, gender, address, email, phone number, occupation, hobbies, education, marital status, number of children, work experience, and personal philosophy. Each field should reflect reasonable diversity, and some fields like "personal philosophy" and "work experience" should include short background stories or brief descriptions. Ensure clarity and continuity without any interruptions or omissions in the narrative throughout the document. Do not stop generating content until all {num_section} virtual user profiles are completed and '*** finished ***' is used to indicate the end of the document.
+
+*** started ***
+[{
+  "index": 1,
+  "name": "Emily Davis",
+  "age": 30,
+  "gender": "Female",
+  "address": "789 Elm Street, San Francisco, CA, USA",
+  "email": "emily.davis@example.com",
+  "phone": "+1-415-555-0123",
+  "occupation": "Marketing Manager",
+  "hobbies": ["Yoga", "Hiking", "Cooking"],
+  "education": "Bachelor's",
+  "marital_status": "Married",
+  "children": 2,
+  "work_experience": "7 years of experience in digital marketing and brand management.",
+  "personal_philosophy": "I believe in creating meaningful connections and making a positive impact."
+}]

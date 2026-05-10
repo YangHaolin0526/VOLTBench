@@ -1,0 +1,18 @@
+Please generate a library of {num_section} Python functions with varying levels of difficulty. The functions should range from simple mathematical operations to more complex data processing, string manipulations, machine learning model training, and evaluation functions. Each function should include the function name, parameters, return type, implementation, and detailed comments. The comments should describe the function's purpose, usage, and include input/output examples and edge cases. Ensure clarity and continuity without any interruptions or omissions in the narrative throughout the document. Do not stop generating content until all {num_section} Python functions are completed and '*** finished ***' is used to indicate the end of the document.
+
+*** started ***
+# Function 1: Add two numbers
+def add(a, b):
+    """
+    This function adds two numbers together.
+    Parameters:
+        a (int/float): The first number.
+        b (int/float): The second number.
+    Returns:
+        int/float: The sum of the two numbers.
+    Example input:
+        add(3, 4)
+    Example output:
+        7
+    """
+    return a + b

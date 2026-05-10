@@ -1,0 +1,11 @@
+请生成{num_section}个虚拟公司档案。每个档案应包括公司名称、行业、成立年份、公司地址和联系电话，格式为JSON。确保文档中的叙述清晰且连续，没有任何中断或遗漏。在生成内容时，请勿停止，直到所有{num_section}个虚拟公司档案完成，并使用‘*** finished ***’来表示文档的结束。
+
+*** started ***
+[{
+  "index": 1,
+  "company_name": "创新科技有限公司",
+  "industry": "技术",
+  "year_established": 2015,
+  "company_address": "上海市浦东新区XX大厦",
+  "contact_number": "+86-21-2345-6789"
+}]
