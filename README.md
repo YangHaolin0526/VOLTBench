@@ -31,3 +31,16 @@ Run local Hugging Face generation:
 python py_files/Qwen_7B_Gen_EN.py
 python py_files/Qwen_7B_Gen.py
 ```
+
+Run local Hugging Face generation with GLoBo logits boosting:
+
+```bash
+python py_files/prompt_dict.py --language CH --num-section 5 --word-section 200
+python py_files/GLoBo_Gen.py \
+  --prompt-folder Longen_instructions/CH \
+  --model /path/to/local/model \
+  --model-shortname Qwen2.5-7B \
+  --only-pkl 5_200_dict.pkl
+```
+
+`GLoBo_Gen.py` only works with local Hugging Face models because it modifies logits during decoding. Use `--section-token-target`, `--grace-tokens`, `--boost`, or `--anchor-template` to tune the decoding behavior for a specific prompt format.
