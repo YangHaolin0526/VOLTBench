@@ -48,3 +48,14 @@ python py_files/GLoBo_Gen.py \
 ```
 
 `GLoBo_Gen.py` only works with local Hugging Face models because it modifies logits during decoding. Use `--section-token-target`, `--grace-tokens`, `--boost`, or `--anchor-template` to tune the decoding behavior for a specific prompt format.
+
+## Citation
+
+```bibtex
+@article{he2026stable,
+  title={On Stable Long-Form Generation: Benchmarking and Mitigating Length Volatility},
+  author={He, Zhitao and Yang, Haolin and Min, Rui and Qin, Zeyu and Fung, Yi R},
+  journal={arXiv preprint arXiv:2605.01357},
+  year={2026}
+}
+```
