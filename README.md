@@ -2,6 +2,10 @@
 
 This repository contains the VOLTBench prompt instructions and generation scripts.
 
+![Overview of the VOLTBench framework](VOLTBench.png)
+
+*An overview of the VOLTBench framework. Our benchmark is constructed from four dimensions, covering structured and unstructured tasks. We evaluate performance from two aspects: generation quality and length volatility.*
+
 ## Contents
 
 - `Longen_instructions/`: English and Chinese prompt templates.
